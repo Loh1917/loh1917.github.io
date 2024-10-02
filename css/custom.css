@@ -1,0 +1,11 @@
+/* custom goes here */
+.blo: {
+	font-size: xxx-large;
+}
+/* -------------------------------------------------- */
+/* front.see_more */
+
+#see_more_background {
+  /* background: url('../images/backgrounds/see_more_background.jpg') center top no-repeat; */
+  background: none;
+}
